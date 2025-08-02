@@ -1,0 +1,59 @@
+{
+"data": [
+{
+        "name": "Barbie",
+        "releaseDate": "July 21, 2023",
+        "rating": "7.3",
+        "duration": "181 minutes",
+        "contentCategory": "Adventure, Comedy, Fantasy",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/best_movie/barbie"
+    },
+{
+        "name": "The Batman",
+        "releaseDate": "March 4, 2022",
+        "rating": "8.4",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Crime, Drama",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/best_movie/batman_2022"
+    },
+{
+        "name": "Top Gun: Maverick",
+        "releaseDate": "May 27, 2022",
+        "rating": "8.4",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Drama",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/best_movie/Top_Gun:_Maverick"
+    }, 
+{
+        "name": "The Hunger Games 2023",
+        "releaseDate": "November 17, 2024",
+        "rating": "8.4",
+        "duration": "181 minutes",
+        "contentCategory": "Adventure, Drama, Sci-Fi",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/best_movie/the_hunger_games_2023"
+    },
+{
+        "name": "Tenet",
+        "releaseDate": "August 26, 2020",
+        "rating": "7.4",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Sci-Fi, Thriller",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/best_movie/tenet"
+    }
+]
+}

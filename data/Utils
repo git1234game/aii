@@ -1,0 +1,14 @@
+{
+        "isShowUnityAds": false,
+        "isShowMainButtonAds": true,
+        "isShowAdsAtlasScreen": true,
+        "movieScreenTitle1": "",
+        "movieScreenTitle2": "",
+        "movieScreenTitle3": "",
+        "gameScreenTitle1": "",
+        "gameScreenTitle2": "",
+        "gameScreenTitle3": "",
+"idThis": "5664025",
+"admobAdLimit": 1,
+"unityAdLimit": 2
+}
